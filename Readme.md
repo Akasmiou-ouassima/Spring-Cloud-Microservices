@@ -20,7 +20,7 @@
 ## Architecture
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23000.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23000.jpg" width="70%">
 </div>
 
 ## Première partie 
@@ -79,11 +79,11 @@ public class CustomerServiceApplication {
 
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23001.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23001.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23002.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23002.jpg" width="70%">
 </div>
 
 >**Inventory-Service**
@@ -146,11 +146,11 @@ public class InventoryServiceApplication {
 
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23003.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23003.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23004.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23004.jpg" width="70%">
 </div>
 
 >**Spring Cloud Gateway**
@@ -240,7 +240,7 @@ public class EurekaDiscoveryApplication {
 ```
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23005.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23005.jpg" width="70%">
 </div>
 
 ## Deuxième Partie 
@@ -254,20 +254,20 @@ public class EurekaDiscoveryApplication {
 **Les dépendances utilsées**
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23006.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23006.jpg" width="70%">
 </div>
 
 
 **Diagramme de classes**
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23007.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23007.jpg" width="70%">
 </div>
 
 **Structure du projet**
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23008.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23008.jpg" width="70%">
 </div>
 
 <ul>
@@ -468,21 +468,21 @@ public class BillingServiceApplication {
 ```
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23009.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23009.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23010.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23010.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23011.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23011.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23012.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23012.jpg" width="70%">
 </div>
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23013.jpg" width="50%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23013.jpg" width="70%">
 </div>
