@@ -267,7 +267,7 @@ public class EurekaDiscoveryApplication {
 **Structure du projet**
 
 <div align="center">
-<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23008.jpg" width="70%">
+<img src="https://github.com/Akasmiou-ouassima/Spring-Cloud-Microservices/blob/master/captures/%23008.jpg" width="50%">
 </div>
 
 <ul>
