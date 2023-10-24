@@ -18,10 +18,12 @@ public class GatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GatewayApplication.class, args);
 	}
-   //autre maniére de confugirer si vous n'avez pas utiliser le fichier app.yml
+
     //@Bean
 	RouteLocator routeLocator(RouteLocatorBuilder builder){
-		/*return builder.routes()
+		//autre maniére de confugirer si vous n'avez pas utiliser le fichier app.yml
+		/* on utilise ce configuration quand on a des urls fixes
+		return builder.routes()
 				.route("r1",r-> r.path("/customers/**").uri("http://localhost:8081/"))
 				.route("r2",(r)->r.path("/products/**").uri("http://localhost:8082/"))
 				.build();*/
